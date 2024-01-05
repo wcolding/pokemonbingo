@@ -1,0 +1,1666 @@
+[
+    {
+      "name": "Bulbasaur",
+      "objective": 2
+    },
+    {
+      "name": "Ivysaur",
+      "objective": 2
+    },
+    {
+      "name": "Venusaur",
+      "objective": 2
+    },
+    {
+      "name": "Charmander",
+      "objective": 3
+    },
+    {
+      "name": "Charmeleon",
+      "objective": 3
+    },
+    {
+      "name": "Charizard",
+      "objective": 3
+    },
+    {
+      "name": "Squirtle",
+      "objective": 4
+    },
+    {
+      "name": "Wartortle",
+      "objective": 4
+    },
+    {
+      "name": "Blastoise",
+      "objective": 4
+    },
+    {
+      "name": "Caterpie",
+      "objective": 5
+    },
+    {
+      "name": "Metapod",
+      "objective": 5
+    },
+    {
+      "name": "Butterfree",
+      "objective": 5
+    },
+    {
+      "name": "Weedle",
+      "objective": 6
+    },
+    {
+      "name": "Kakuna",
+      "objective": 6
+    },
+    {
+      "name": "Beedrill",
+      "objective": 6
+    },
+    {
+      "name": "Pidgey",
+      "objective": 7
+    },
+    {
+      "name": "Pidgeotto",
+      "objective": 7
+    },
+    {
+      "name": "Pidgeot",
+      "objective": 7
+    },
+    {
+      "name": "Rattata",
+      "objective": 8
+    },
+    {
+      "name": "Raticate",
+      "objective": 8
+    },
+    {
+      "name": "Spearow",
+      "objective": 9
+    },
+    {
+      "name": "Fearow",
+      "objective": 9
+    },
+    {
+      "name": "Ekans",
+      "objective": 10
+    },
+    {
+      "name": "Arbok",
+      "objective": 10
+    },
+    {
+      "name": "Pikachu",
+      "objective": 11
+    },
+    {
+      "name": "Raichu",
+      "objective": 11
+    },
+    {
+      "name": "Sandshrew",
+      "objective": 12
+    },
+    {
+      "name": "Sandslash",
+      "objective": 12
+    },
+    {
+      "name": "Nidoran \u2640",
+      "objective": 13
+    },
+    {
+      "name": "Nidorina",
+      "objective": 13
+    },
+    {
+      "name": "Nidoqueen",
+      "objective": 13
+    },
+    {
+      "name": "Nidoran \u2642",
+      "objective": 14
+    },
+    {
+      "name": "Nidorino",
+      "objective": 14
+    },
+    {
+      "name": "Nidoking",
+      "objective": 14
+    },
+    {
+      "name": "Clefairy",
+      "objective": 15
+    },
+    {
+      "name": "Clefable",
+      "objective": 15
+    },
+    {
+      "name": "Vulpix",
+      "objective": 16
+    },
+    {
+      "name": "Ninetales",
+      "objective": 16
+    },
+    {
+      "name": "Jigglypuff",
+      "objective": 17
+    },
+    {
+      "name": "Wigglytuff",
+      "objective": 17
+    },
+    {
+      "name": "Zubat",
+      "objective": 18
+    },
+    {
+      "name": "Golbat",
+      "objective": 18
+    },
+    {
+      "name": "Oddish",
+      "objective": 19
+    },
+    {
+      "name": "Gloom",
+      "objective": 19
+    },
+    {
+      "name": "Vileplume",
+      "objective": 19
+    },
+    {
+      "name": "Paras",
+      "objective": 20
+    },
+    {
+      "name": "Parasect",
+      "objective": 20
+    },
+    {
+      "name": "Venonat",
+      "objective": 21
+    },
+    {
+      "name": "Venomoth",
+      "objective": 21
+    },
+    {
+      "name": "Diglett",
+      "objective": 22
+    },
+    {
+      "name": "Dugtrio",
+      "objective": 22
+    },
+    {
+      "name": "Meowth",
+      "objective": 23
+    },
+    {
+      "name": "Persian",
+      "objective": 23
+    },
+    {
+      "name": "Psyduck",
+      "objective": 24
+    },
+    {
+      "name": "Golduck",
+      "objective": 24
+    },
+    {
+      "name": "Mankey",
+      "objective": 25
+    },
+    {
+      "name": "Primeape",
+      "objective": 25
+    },
+    {
+      "name": "Growlithe",
+      "objective": 26
+    },
+    {
+      "name": "Arcanine",
+      "objective": 26
+    },
+    {
+      "name": "Poliwag",
+      "objective": 27
+    },
+    {
+      "name": "Poliwhirl",
+      "objective": 27
+    },
+    {
+      "name": "Poliwrath",
+      "objective": 27
+    },
+    {
+      "name": "Abra",
+      "objective": 28
+    },
+    {
+      "name": "Kadabra",
+      "objective": 28
+    },
+    {
+      "name": "Alakazam",
+      "objective": 28
+    },
+    {
+      "name": "Machop",
+      "objective": 29
+    },
+    {
+      "name": "Machoke",
+      "objective": 29
+    },
+    {
+      "name": "Machamp",
+      "objective": 29
+    },
+    {
+      "name": "Bellsprout",
+      "objective": 30
+    },
+    {
+      "name": "Weepinbell",
+      "objective": 30
+    },
+    {
+      "name": "Victreebel",
+      "objective": 30
+    },
+    {
+      "name": "Tentacool",
+      "objective": 31
+    },
+    {
+      "name": "Tentacruel",
+      "objective": 31
+    },
+    {
+      "name": "Geodude",
+      "objective": 32
+    },
+    {
+      "name": "Graveler",
+      "objective": 32
+    },
+    {
+      "name": "Golem",
+      "objective": 32
+    },
+    {
+      "name": "Ponyta",
+      "objective": 33
+    },
+    {
+      "name": "Rapidash",
+      "objective": 33
+    },
+    {
+      "name": "Slowpoke",
+      "objective": 34
+    },
+    {
+      "name": "Slowbro",
+      "objective": 34
+    },
+    {
+      "name": "Magnemite",
+      "objective": 35
+    },
+    {
+      "name": "Magneton",
+      "objective": 35
+    },
+    {
+      "name": "Farfetch'd",
+      "objective": 0
+    },
+    {
+      "name": "Doduo",
+      "objective": 36
+    },
+    {
+      "name": "Dodrio",
+      "objective": 36
+    },
+    {
+      "name": "Seel",
+      "objective": 37
+    },
+    {
+      "name": "Dewgong",
+      "objective": 37
+    },
+    {
+      "name": "Grimer",
+      "objective": 38
+    },
+    {
+      "name": "Muk",
+      "objective": 38
+    },
+    {
+      "name": "Shellder",
+      "objective": 39
+    },
+    {
+      "name": "Cloyster",
+      "objective": 39
+    },
+    {
+      "name": "Gastly",
+      "objective": 40
+    },
+    {
+      "name": "Haunter",
+      "objective": 40
+    },
+    {
+      "name": "Gengar",
+      "objective": 40
+    },
+    {
+      "name": "Onix",
+      "objective": 41
+    },
+    {
+      "name": "Drowzee",
+      "objective": 42
+    },
+    {
+      "name": "Hypno",
+      "objective": 42
+    },
+    {
+      "name": "Krabby",
+      "objective": 43
+    },
+    {
+      "name": "Kingler",
+      "objective": 43
+    },
+    {
+      "name": "Voltorb",
+      "objective": 44
+    },
+    {
+      "name": "Electrode",
+      "objective": 44
+    },
+    {
+      "name": "Exeggcute",
+      "objective": 45
+    },
+    {
+      "name": "Exeggutor",
+      "objective": 45
+    },
+    {
+      "name": "Cubone",
+      "objective": 46
+    },
+    {
+      "name": "Marowak",
+      "objective": 46
+    },
+    {
+      "name": "Hitmonlee",
+      "objective": 87
+    },
+    {
+      "name": "Hitmonchan",
+      "objective": 87
+    },
+    {
+      "name": "Lickitung",
+      "objective": 0
+    },
+    {
+      "name": "Koffing",
+      "objective": 47
+    },
+    {
+      "name": "Weezing",
+      "objective": 47
+    },
+    {
+      "name": "Rhyhorn",
+      "objective": 48
+    },
+    {
+      "name": "Rhydon",
+      "objective": 48
+    },
+    {
+      "name": "Chansey",
+      "objective": 49
+    },
+    {
+      "name": "Tangela",
+      "objective": 0
+    },
+    {
+      "name": "Kangaskhan",
+      "objective": 0
+    },
+    {
+      "name": "Horsea",
+      "objective": 50
+    },
+    {
+      "name": "Seadra",
+      "objective": 50
+    },
+    {
+      "name": "Goldeen",
+      "objective": 51
+    },
+    {
+      "name": "Seaking",
+      "objective": 51
+    },
+    {
+      "name": "Staryu",
+      "objective": 52
+    },
+    {
+      "name": "Starmie",
+      "objective": 52
+    },
+    {
+      "name": "Mr. Mime",
+      "objective": 0
+    },
+    {
+      "name": "Scyther",
+      "objective": 53
+    },
+    {
+      "name": "Jynx",
+      "objective": 54
+    },
+    {
+      "name": "Electabuzz",
+      "objective": 55
+    },
+    {
+      "name": "Magmar",
+      "objective": 56
+    },
+    {
+      "name": "Pinsir",
+      "objective": 0
+    },
+    {
+      "name": "Tauros",
+      "objective": 0
+    },
+    {
+      "name": "Magikarp",
+      "objective": 57
+    },
+    {
+      "name": "Gyarados",
+      "objective": 57
+    },
+    {
+      "name": "Lapras",
+      "objective": 0
+    },
+    {
+      "name": "Ditto",
+      "objective": 0
+    },
+    {
+      "name": "Eevee",
+      "objective": 58
+    },
+    {
+      "name": "Vaporeon",
+      "objective": 58
+    },
+    {
+      "name": "Jolteon",
+      "objective": 58
+    },
+    {
+      "name": "Flareon",
+      "objective": 58
+    },
+    {
+      "name": "Porygon",
+      "objective": 59
+    },
+    {
+      "name": "Omanyte",
+      "objective": 60
+    },
+    {
+      "name": "Omastar",
+      "objective": 60
+    },
+    {
+      "name": "Kabuto",
+      "objective": 61
+    },
+    {
+      "name": "Kabutops",
+      "objective": 61
+    },
+    {
+      "name": "Aerodactyl",
+      "objective": 0
+    },
+    {
+      "name": "Snorlax",
+      "objective": 0
+    },
+    {
+      "name": "Articuno",
+      "objective": 1
+    },
+    {
+      "name": "Zapdos",
+      "objective": 1
+    },
+    {
+      "name": "Moltres",
+      "objective": 1
+    },
+    {
+      "name": "Dratini",
+      "objective": 62
+    },
+    {
+      "name": "Dragonair",
+      "objective": 62
+    },
+    {
+      "name": "Dragonite",
+      "objective": 62
+    },
+    {
+      "name": "Mewtwo",
+      "objective": 1
+    },
+    {
+      "name": "Mew",
+      "objective": 1
+    },
+    {
+      "name": "Chikorita",
+      "objective": 63
+    },
+    {
+      "name": "Bayleef",
+      "objective": 63
+    },
+    {
+      "name": "Meganium",
+      "objective": 63
+    },
+    {
+      "name": "Cyndaquil",
+      "objective": 64
+    },
+    {
+      "name": "Quilava",
+      "objective": 64
+    },
+    {
+      "name": "Typhlosion",
+      "objective": 64
+    },
+    {
+      "name": "Totodile",
+      "objective": 65
+    },
+    {
+      "name": "Croconaw",
+      "objective": 65
+    },
+    {
+      "name": "Feraligatr",
+      "objective": 65
+    },
+    {
+      "name": "Sentret",
+      "objective": 66
+    },
+    {
+      "name": "Furret",
+      "objective": 66
+    },
+    {
+      "name": "Hoothoot",
+      "objective": 67
+    },
+    {
+      "name": "Noctowl",
+      "objective": 67
+    },
+    {
+      "name": "Ledyba",
+      "objective": 68
+    },
+    {
+      "name": "Ledian",
+      "objective": 68
+    },
+    {
+      "name": "Spinarak",
+      "objective": 69
+    },
+    {
+      "name": "Ariados",
+      "objective": 69
+    },
+    {
+      "name": "Crobat",
+      "objective": 18
+    },
+    {
+      "name": "Chinchou",
+      "objective": 70
+    },
+    {
+      "name": "Lanturn",
+      "objective": 70
+    },
+    {
+      "name": "Pichu",
+      "objective": 11
+    },
+    {
+      "name": "Cleffa",
+      "objective": 15
+    },
+    {
+      "name": "Igglybuff",
+      "objective": 17
+    },
+    {
+      "name": "Togepi",
+      "objective": 71
+    },
+    {
+      "name": "Togetic",
+      "objective": 71
+    },
+    {
+      "name": "Natu",
+      "objective": 72
+    },
+    {
+      "name": "Xatu",
+      "objective": 72
+    },
+    {
+      "name": "Mareep",
+      "objective": 73
+    },
+    {
+      "name": "Flaaffy",
+      "objective": 73
+    },
+    {
+      "name": "Ampharos",
+      "objective": 73
+    },
+    {
+      "name": "Bellossom",
+      "objective": 19
+    },
+    {
+      "name": "Marill",
+      "objective": 74
+    },
+    {
+      "name": "Azumarill",
+      "objective": 74
+    },
+    {
+      "name": "Sudowoodo",
+      "objective": 0
+    },
+    {
+      "name": "Politoed",
+      "objective": 27
+    },
+    {
+      "name": "Hoppip",
+      "objective": 75
+    },
+    {
+      "name": "Skiploom",
+      "objective": 75
+    },
+    {
+      "name": "Jumpluff",
+      "objective": 75
+    },
+    {
+      "name": "Aipom",
+      "objective": 0
+    },
+    {
+      "name": "Sunkern",
+      "objective": 76
+    },
+    {
+      "name": "Sunflora",
+      "objective": 76
+    },
+    {
+      "name": "Yanma",
+      "objective": 0
+    },
+    {
+      "name": "Wooper",
+      "objective": 77
+    },
+    {
+      "name": "Quagsire",
+      "objective": 77
+    },
+    {
+      "name": "Espeon",
+      "objective": 58
+    },
+    {
+      "name": "Umbreon",
+      "objective": 58
+    },
+    {
+      "name": "Murkrow",
+      "objective": 0
+    },
+    {
+      "name": "Slowking",
+      "objective": 34
+    },
+    {
+      "name": "Misdreavus",
+      "objective": 0
+    },
+    {
+      "name": "Unown",
+      "objective": 0
+    },
+    {
+      "name": "Wobbuffet",
+      "objective": 78
+    },
+    {
+      "name": "Girafarig",
+      "objective": 0
+    },
+    {
+      "name": "Pineco",
+      "objective": 79
+    },
+    {
+      "name": "Forretress",
+      "objective": 79
+    },
+    {
+      "name": "Dunsparce",
+      "objective": 0
+    },
+    {
+      "name": "Gligar",
+      "objective": 0
+    },
+    {
+      "name": "Steelix",
+      "objective": 41
+    },
+    {
+      "name": "Snubbull",
+      "objective": 80
+    },
+    {
+      "name": "Granbull",
+      "objective": 80
+    },
+    {
+      "name": "Qwilfish",
+      "objective": 0
+    },
+    {
+      "name": "Scizor",
+      "objective": 53
+    },
+    {
+      "name": "Shuckle",
+      "objective": 0
+    },
+    {
+      "name": "Heracross",
+      "objective": 0
+    },
+    {
+      "name": "Sneasel",
+      "objective": 0
+    },
+    {
+      "name": "Teddiursa",
+      "objective": 81
+    },
+    {
+      "name": "Ursaring",
+      "objective": 81
+    },
+    {
+      "name": "Slugma",
+      "objective": 82
+    },
+    {
+      "name": "Magcargo",
+      "objective": 82
+    },
+    {
+      "name": "Swinub",
+      "objective": 83
+    },
+    {
+      "name": "Piloswine",
+      "objective": 83
+    },
+    {
+      "name": "Corsola",
+      "objective": 0
+    },
+    {
+      "name": "Remoraid",
+      "objective": 84
+    },
+    {
+      "name": "Octillery",
+      "objective": 84
+    },
+    {
+      "name": "Delibird",
+      "objective": 0
+    },
+    {
+      "name": "Mantine",
+      "objective": 0
+    },
+    {
+      "name": "Skarmory",
+      "objective": 0
+    },
+    {
+      "name": "Houndour",
+      "objective": 85
+    },
+    {
+      "name": "Houndoom",
+      "objective": 85
+    },
+    {
+      "name": "Kingdra",
+      "objective": 50
+    },
+    {
+      "name": "Phanpy",
+      "objective": 86
+    },
+    {
+      "name": "Donphan",
+      "objective": 86
+    },
+    {
+      "name": "Porygon2",
+      "objective": 59
+    },
+    {
+      "name": "Stantler",
+      "objective": 0
+    },
+    {
+      "name": "Smeargle",
+      "objective": 0
+    },
+    {
+      "name": "Tyrogue",
+      "objective": 87
+    },
+    {
+      "name": "Hitmontop",
+      "objective": 87
+    },
+    {
+      "name": "Smoochum",
+      "objective": 54
+    },
+    {
+      "name": "Elekid",
+      "objective": 55
+    },
+    {
+      "name": "Magby",
+      "objective": 56
+    },
+    {
+      "name": "Miltank",
+      "objective": 0
+    },
+    {
+      "name": "Blissey",
+      "objective": 49
+    },
+    {
+      "name": "Raikou",
+      "objective": 1
+    },
+    {
+      "name": "Entei",
+      "objective": 1
+    },
+    {
+      "name": "Suicune",
+      "objective": 1
+    },
+    {
+      "name": "Larvitar",
+      "objective": 88
+    },
+    {
+      "name": "Pupitar",
+      "objective": 88
+    },
+    {
+      "name": "Tyranitar",
+      "objective": 88
+    },
+    {
+      "name": "Lugia",
+      "objective": 1
+    },
+    {
+      "name": "Ho-Oh",
+      "objective": 1
+    },
+    {
+      "name": "Celebi",
+      "objective": 1
+    },
+    {
+      "name": "Treecko",
+      "objective": 89
+    },
+    {
+      "name": "Grovyle",
+      "objective": 89
+    },
+    {
+      "name": "Sceptile",
+      "objective": 89
+    },
+    {
+      "name": "Torchic",
+      "objective": 90
+    },
+    {
+      "name": "Combusken",
+      "objective": 90
+    },
+    {
+      "name": "Blaziken",
+      "objective": 90
+    },
+    {
+      "name": "Mudkip",
+      "objective": 91
+    },
+    {
+      "name": "Marshtomp",
+      "objective": 91
+    },
+    {
+      "name": "Swampert",
+      "objective": 91
+    },
+    {
+      "name": "Poochyena",
+      "objective": 92
+    },
+    {
+      "name": "Mightyena",
+      "objective": 92
+    },
+    {
+      "name": "Zigzagoon",
+      "objective": 93
+    },
+    {
+      "name": "Linoone",
+      "objective": 93
+    },
+    {
+      "name": "Wurmple",
+      "objective": 94
+    },
+    {
+      "name": "Silcoon",
+      "objective": 94
+    },
+    {
+      "name": "Beautifly",
+      "objective": 94
+    },
+    {
+      "name": "Cascoon",
+      "objective": 94
+    },
+    {
+      "name": "Dustox",
+      "objective": 94
+    },
+    {
+      "name": "Lotad",
+      "objective": 95
+    },
+    {
+      "name": "Lombre",
+      "objective": 95
+    },
+    {
+      "name": "Ludicolo",
+      "objective": 95
+    },
+    {
+      "name": "Seedot",
+      "objective": 96
+    },
+    {
+      "name": "Nuzleaf",
+      "objective": 96
+    },
+    {
+      "name": "Shiftry",
+      "objective": 96
+    },
+    {
+      "name": "Taillow",
+      "objective": 98
+    },
+    {
+      "name": "Swellow",
+      "objective": 98
+    },
+    {
+      "name": "Wingull",
+      "objective": 100
+    },
+    {
+      "name": "Pelipper",
+      "objective": 100
+    },
+    {
+      "name": "Ralts",
+      "objective": 128
+    },
+    {
+      "name": "Kirlia",
+      "objective": 128
+    },
+    {
+      "name": "Gardevoir",
+      "objective": 128
+    },
+    {
+      "name": "Surskit",
+      "objective": 101
+    },
+    {
+      "name": "Masquerain",
+      "objective": 101
+    },
+    {
+      "name": "Shroomish",
+      "objective": 99
+    },
+    {
+      "name": "Breloom",
+      "objective": 99
+    },
+    {
+      "name": "Slakoth",
+      "objective": 120
+    },
+    {
+      "name": "Vigoroth",
+      "objective": 120
+    },
+    {
+      "name": "Slaking",
+      "objective": 120
+    },
+    {
+      "name": "Nincada",
+      "objective": 97
+    },
+    {
+      "name": "Ninjask",
+      "objective": 97
+    },
+    {
+      "name": "Shedinja",
+      "objective": 97
+    },
+    {
+      "name": "Whismur",
+      "objective": 122
+    },
+    {
+      "name": "Loudred",
+      "objective": 122
+    },
+    {
+      "name": "Exploud",
+      "objective": 122
+    },
+    {
+      "name": "Makuhita",
+      "objective": 110
+    },
+    {
+      "name": "Hariyama",
+      "objective": 110
+    },
+    {
+      "name": "Azurill",
+      "objective": 74
+    },
+    {
+      "name": "Nosepass",
+      "objective": 0
+    },
+    {
+      "name": "Skitty",
+      "objective": 103
+    },
+    {
+      "name": "Delcatty",
+      "objective": 103
+    },
+    {
+      "name": "Sableye",
+      "objective": 0
+    },
+    {
+      "name": "Mawile",
+      "objective": 0
+    },
+    {
+      "name": "Aron",
+      "objective": 125
+    },
+    {
+      "name": "Lairon",
+      "objective": 125
+    },
+    {
+      "name": "Aggron",
+      "objective": 125
+    },
+    {
+      "name": "Meditite",
+      "objective": 117
+    },
+    {
+      "name": "Medicham",
+      "objective": 117
+    },
+    {
+      "name": "Electrike",
+      "objective": 111
+    },
+    {
+      "name": "Manectric",
+      "objective": 111
+    },
+    {
+      "name": "Plusle",
+      "objective": 131
+    },
+    {
+      "name": "Minun",
+      "objective": 131
+    },
+    {
+      "name": "Volbeat",
+      "objective": 132
+    },
+    {
+      "name": "Illumise",
+      "objective": 132
+    },
+    {
+      "name": "Roselia",
+      "objective": 0
+    },
+    {
+      "name": "Gulpin",
+      "objective": 121
+    },
+    {
+      "name": "Swalot",
+      "objective": 121
+    },
+    {
+      "name": "Carvanha",
+      "objective": 108
+    },
+    {
+      "name": "Sharpedo",
+      "objective": 108
+    },
+    {
+      "name": "Wailmer",
+      "objective": 102
+    },
+    {
+      "name": "Wailord",
+      "objective": 102
+    },
+    {
+      "name": "Numel",
+      "objective": 112
+    },
+    {
+      "name": "Camerupt",
+      "objective": 112
+    },
+    {
+      "name": "Torkoal",
+      "objective": 0
+    },
+    {
+      "name": "Spoink",
+      "objective": 116
+    },
+    {
+      "name": "Grumpig",
+      "objective": 116
+    },
+    {
+      "name": "Spinda",
+      "objective": 0
+    },
+    {
+      "name": "Trapinch",
+      "objective": 109
+    },
+    {
+      "name": "Vibrava",
+      "objective": 109
+    },
+    {
+      "name": "Flygon",
+      "objective": 109
+    },
+    {
+      "name": "Cacnea",
+      "objective": 114
+    },
+    {
+      "name": "Cacturne",
+      "objective": 114
+    },
+    {
+      "name": "Swablu",
+      "objective": 118
+    },
+    {
+      "name": "Altaria",
+      "objective": 118
+    },
+    {
+      "name": "Zangoose",
+      "objective": 0
+    },
+    {
+      "name": "Seviper",
+      "objective": 0
+    },
+    {
+      "name": "Lunatone",
+      "objective": 133
+    },
+    {
+      "name": "Solrock",
+      "objective": 133
+    },
+    {
+      "name": "Barboach",
+      "objective": 105
+    },
+    {
+      "name": "Whiscash",
+      "objective": 105
+    },
+    {
+      "name": "Corphish",
+      "objective": 106
+    },
+    {
+      "name": "Crawdaunt",
+      "objective": 106
+    },
+    {
+      "name": "Baltoy",
+      "objective": 104
+    },
+    {
+      "name": "Claydol",
+      "objective": 104
+    },
+    {
+      "name": "Lileep",
+      "objective": 126
+    },
+    {
+      "name": "Cradily",
+      "objective": 126
+    },
+    {
+      "name": "Anorith",
+      "objective": 127
+    },
+    {
+      "name": "Armaldo",
+      "objective": 127
+    },
+    {
+      "name": "Feebas",
+      "objective": 107
+    },
+    {
+      "name": "Milotic",
+      "objective": 107
+    },
+    {
+      "name": "Castform",
+      "objective": 0
+    },
+    {
+      "name": "Kecleon",
+      "objective": 0
+    },
+    {
+      "name": "Shuppet",
+      "objective": 124
+    },
+    {
+      "name": "Banette",
+      "objective": 124
+    },
+    {
+      "name": "Duskull",
+      "objective": 119
+    },
+    {
+      "name": "Dusclops",
+      "objective": 119
+    },
+    {
+      "name": "Tropius",
+      "objective": 0
+    },
+    {
+      "name": "Chimecho",
+      "objective": 0
+    },
+    {
+      "name": "Absol",
+      "objective": 0
+    },
+    {
+      "name": "Wynaut",
+      "objective": 78
+    },
+    {
+      "name": "Snorunt",
+      "objective": 115
+    },
+    {
+      "name": "Glalie",
+      "objective": 115
+    },
+    {
+      "name": "Spheal",
+      "objective": 113
+    },
+    {
+      "name": "Sealeo",
+      "objective": 113
+    },
+    {
+      "name": "Walrein",
+      "objective": 113
+    },
+    {
+      "name": "Clamperl",
+      "objective": 123
+    },
+    {
+      "name": "Huntail",
+      "objective": 123
+    },
+    {
+      "name": "Gorebyss",
+      "objective": 123
+    },
+    {
+      "name": "Relicanth",
+      "objective": 0
+    },
+    {
+      "name": "Luvdisc",
+      "objective": 0
+    },
+    {
+      "name": "Bagon",
+      "objective": 129
+    },
+    {
+      "name": "Shelgon",
+      "objective": 129
+    },
+    {
+      "name": "Salamence",
+      "objective": 129
+    },
+    {
+      "name": "Beldum",
+      "objective": 130
+    },
+    {
+      "name": "Metang",
+      "objective": 130
+    },
+    {
+      "name": "Metagross",
+      "objective": 130
+    },
+    {
+      "name": "Regirock",
+      "objective": 1
+    },
+    {
+      "name": "Regice",
+      "objective": 1
+    },
+    {
+      "name": "Registeel",
+      "objective": 1
+    },
+    {
+      "name": "Latias",
+      "objective": 1
+    },
+    {
+      "name": "Latios",
+      "objective": 1
+    },
+    {
+      "name": "Kyogre",
+      "objective": 1
+    },
+    {
+      "name": "Groudon",
+      "objective": 1
+    },
+    {
+      "name": "Rayquaza",
+      "objective": 1
+    },
+    {
+      "name": "Jirachi",
+      "objective": 1
+    },
+    {
+      "name": "Deoxys",
+      "objective": 1
+    },
+    {
+      "name": "Turtwig",
+      "objective": 131
+    },
+    {
+      "name": "Grotle",
+      "objective": 131
+    },
+    {
+      "name": "Torterra",
+      "objective": 131
+    },
+    {
+      "name": "Chimchar",
+      "objective": 132
+    },
+    {
+      "name": "Monferno",
+      "objective": 132
+    },
+    {
+      "name": "Infernape",
+      "objective": 132
+    },
+    {
+      "name": "Piplup",
+      "objective": 133
+    },
+    {
+      "name": "Prinplup",
+      "objective": 133
+    },
+    {
+      "name": "Empoleon",
+      "objective": 133
+    },
+    {
+      "name": "Starly",
+      "objective": 134
+    },
+    {
+      "name": "Staravia",
+      "objective": 134
+    },
+    {
+      "name": "Staraptor",
+      "objective": 134
+    },
+    {
+      "name": "Bidoof",
+      "objective": 135
+    },
+    {
+      "name": "Bibarel",
+      "objective": 135
+    },
+    {
+      "name": "Kricketot",
+      "objective": 136
+    },
+    {
+      "name": "Kricketune",
+      "objective": 136
+    },
+    {
+      "name": "Shinx",
+      "objective": 137
+    },
+    {
+      "name": "Luxio",
+      "objective": 137
+    },
+    {
+      "name": "Luxray",
+      "objective": 137
+    },
+    {
+      "name": "Budew",
+      "objective": 138
+    },
+    {
+      "name": "Roserade",
+      "objective": 138
+    },
+    {
+      "name": "Cranidos",
+      "objective": 139
+    },
+    {
+      "name": "Rampardos",
+      "objective": 139
+    },
+    {
+      "name": "Shieldon",
+      "objective": 140
+    },
+    {
+      "name": "Bastiodon",
+      "objective": 140
+    },
+    {
+      "name": "Burmy",
+      "objective": 141
+    },
+    {
+      "name": "Wormadam",
+      "objective": 141
+    },
+    {
+      "name": "Mothim",
+      "objective": 141
+    },
+    {
+      "name": "Combee",
+      "objective": 142
+    },
+    {
+      "name": "Vespiquen",
+      "objective": 142
+    }
+  ]

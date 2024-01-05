@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="cache-control" content="max-age=0" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+	<meta http-equiv="pragma" content="no-cache" />
+
+	<link rel="stylesheet" href="../static/App.css?v='{{version}}'" />
+
+
+	<title>Pokémon Bingo Generator</title>
+</head>
+
+<body onload="init()">
+	<div class="headerSection"></div>
+	<div class="mainContainer">
+		<table>
+			<tr>
+				<td>
+					<div class="listsSection">
+						<table>
+							<tr>
+								<td><button id="ResetMon" onclick="resetSelectBoxes()">Reset</button></td>
+							</tr>
+							<tr>
+								<td><button id="AddMon" onclick="addPokemon()">Add  ►</button></td>
+								<td><button id="RemMon" onclick="removePokemon()">◄  Remove</button></td>
+							</tr>
+							<tr>
+								<td>
+									<select id="Pokedex" size="10" multiple>
+										{% for Pokemon in Dex %}
+										<option>{{Pokemon}}</option>
+										{% endfor %}
+									</select>
+								</td>
+								<td>
+									<select id="Pool" size="10" multiple>
+									</select>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+				<td>
+					<div class="instructionsSection">
+						<h6>This tool generates bingo boards to be used with <a href="https://www.bingosync.com/" target="_blank">Bingosync's</a> custom games.</h6><br /><br />
+						<strong>Step 1:</strong> Put Pokémon into the right list/load a preset<br />
+						<strong>Step 2:</strong> Click Generate<br />
+						<strong>Step 3:</strong> Click Ditto to copy to clipboard<br />
+						<strong>Step 4:</strong> Bingosync!
+					</div>
+				</td>
+			</tr>
+		</table>
+		<div class="presetSection">
+			<h6>Preset:</h6>
+			<select id="Presets" class="presetBox"></select>
+			<button id="loadPresetButton" onclick="loadPreset()">Load Preset</button>
+			<button id="savePresetButton" onclick="savePreset()">Save Preset</button>
+
+			<button id="clearUPresetsButton" onclick="clearUserPresets()">Clear User Presets</button>
+		</div>
+
+		<div class="generateSection">
+			<h6>Max Legendaries:</h6>
+			<form method="post" action="/generate">
+				<input type="number" id="MaxLs" name="maxLeg" value="0" min="0" onchange="changedNumLegendaries()"/>
+				<input type="hidden" id="CurMask" name="curMask" />
+				<input type="submit" value="Generate!" />
+			</form>
+		</div>
+		<img class="dittoButton" src="../static/ditto3.png" onclick="copyOutput()" />
+		<div id="Copied" class="copyText">Copied to clipboard!</div>
+		<br />
+		<textarea id="Output" style="display:none">{{generated}}</textarea>
+	</div>
+	<div class="footerSection"><h1>Pokémon Bingo Generator</h1></div>
+
+	<script type="text/javascript" src="../static/App.js?v='{{version}}'"></script>
+	<script type="text/javascript">
+		var pmasks = {{masks|tojson|safe}};
+		var dex = {{ Dex| tojson | safe}};
+	</script>
+</body>
+</html>
